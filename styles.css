@@ -6,23 +6,23 @@ body{ background: linear-gradient (to bottom, #f0f8f, #e6e6fa);
 header { text-align: center;
         font-size: 2em;
         font-weight: bold
-        padding: 1rem;
+        padding: 1em;
         background-color: #4682b4;
         color: white;
        }
 /* */
 header ul { list-style-type: none padding: 0; margine: 0; display: flex; justify-content: center; gap: 1rem;}
-header ul li a { text-decorative: none; color: white; padding: 0.5rem 1rem; transition: background-color 0.3s ease, color 0.3
+header ul li a { text-decorative: none; color: white; padding: 0.5em 1em; transition: background-color 0.3s ease, color 0.3
 header ul li a:hover { background-color: #36648b; color: #f0f8ff; } section { transition: transition 0.3s ease; /* */
 section:hover { transform: scale(1.02); }
 
 /* */
-main{ padding: 2rem;
-      margin: 1rem;
+main{ padding: 2em;
+      margin: 1em;
     }
                                                                              
-main section { Margine-bottom: 1rem;
-              padding: 1rem;
+main section { Margine-bottom: 1em;
+              padding: 1em;
               background-color: #f0fff0;
               border: 1px solid #d3d3d3;
               box-shadow: 5px 5px 10px rgba(0,0,0,0.2)
@@ -31,9 +31,9 @@ main section h2 { margine-top: 0; }
                                                                             
  /* */
 footer {
-        font-size: 0.9rem
+        font-size: 0.9em
         text-align: center;
-        padding: 1rem;
+        padding: 1em;
         background-color: #f0f8ff;
         color: #00008b;}
                                                                                                                                                 
