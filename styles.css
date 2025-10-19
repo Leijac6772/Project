@@ -4,7 +4,7 @@ body{ background: linear-gradient (to bottom, #f0f8f, #e6e6fa);
     }
 /* */
 header { text-align: center;
-        font-size; 2rem;
+        font-size: 2em;
         font-weight: bold
         padding: 1rem;
         background-color: #4682b4;
