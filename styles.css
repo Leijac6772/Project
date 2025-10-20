@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(to bottom, #d2b48c,#ffb6c1);
+  background: linear-gradient(to bottom, #d2b48c,#d1dce3);
   font-family: Arial, Helvetica, sans-serif;
   max-width: 1024px;
   margin: 0 auto;
@@ -34,7 +34,7 @@ header ul li a {
 
 header ul li a:hover {
   background-color: #36648b;
-  color: #f0f8ff;
+  color: #a19d8c;
 }
 
 /* Section Hover Effect */
