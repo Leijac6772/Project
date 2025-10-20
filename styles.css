@@ -37,7 +37,7 @@ header ul li a:hover {
 
 /* Section Hover Effect */
 section {
-  transition: transform 0.3s ease;
+  transition: transform 0.4s ease;
 }
 
 section:hover {
@@ -53,9 +53,7 @@ main section {
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
 }
 
-main section h2 {
-  margin-top: 0;
-}D
+
 
 /* Footer styling for contrast and reliability*/
 footer {
