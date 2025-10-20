@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(to bottom, hsla(120,100%,75%,0.3), #e6e6fa);
+  background: linear-gradient(to bottom, #f5deb3,);
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -9,7 +9,7 @@ header {
   font-size: 2em;
   font-weight: bold;
   padding: 2em;
-  background-color: #4682b4;
+  background-color: #8fbc8f;
   color: white;
 }
 
