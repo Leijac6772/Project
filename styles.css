@@ -1,39 +1,72 @@
-/* */
-body{ background: linear-gradient (to bottom, #f0f8f, #e6e6fa);
-     font-family: Arial, Helvetica, sans-serif;
-    }
-/* */
-header { text-align: center;
-        font-size: 2em;
-        font-weight: bold
-        padding: 1em;
-        background-color: #4682b4;
-        color: white;
-       }
-/* */
-header ul { list-style-type: none padding: 0; margine: 0; display: flex; justify-content: center; gap: 1rem;}
-header ul li a { text-decorative: none; color: white; padding: 0.5em 1em; transition: background-color 0.3s ease, color 0.3
-header ul li a:hover { background-color: #36648b; color: #f0f8ff; } section { transition: transition 0.3s ease; /* */
-section:hover { transform: scale(1.02); }
+body {
+  background: linear-gradient(to bottom, #f0f8ff, #e6e6fa);
+  font-family: Arial, Helvetica, sans-serif;
+}
 
-/* */
-main{ padding: 2em;
-      margin: 1em;
-    }
-                                                                             
-main section { Margine-bottom: 1em;
-              padding: 1em;
-              background-color: #f0fff0;
-              border: 1px solid #d3d3d3;
-              box-shadow: 5px 5px 10px rgba(0,0,0,0.2)
-             }
-main section h2 { margine-top: 0; }
-                                                                            
- /* */
+/* Header */
+header {
+  text-align: center;
+  font-size: 2em;
+  font-weight: bold;
+  padding: 1em;
+  background-color: #4682b4;
+  color: white;
+}
+
+/* Navigation Menu */
+header ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+header ul li a {
+  text-decoration: none;
+  color: white;
+  padding: 0.5em 1em;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+header ul li a:hover {
+  background-color: #36648b;
+  color: #f0f8ff;
+}
+
+/* Section Hover Effect */
+section {
+  transition: transform 0.3s ease;
+}
+
+section:hover {
+  transform: scale(1.02);
+}
+
+/* Main Content */
+main {
+  padding: 2em;
+  margin: 1em;
+}
+
+main section {
+  margin-bottom: 1em;
+  padding: 1em;
+  background-color: #f0fff0;
+  border: 1px solid #d3d3d3;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+main section h2 {
+  margin-top: 0;
+}
+
+/* Footer */
 footer {
-        font-size: 0.9em
-        text-align: center;
-        padding: 1em;
-        background-color: #f0f8ff;
-        color: #00008b;}
-                                                                                                                                                
+  font-size: 0.9em;
+  text-align: center;
+  padding: 1em;
+  background-color: #f0f8ff;
+  color: #00008b;
+}
