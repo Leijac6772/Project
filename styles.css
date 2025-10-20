@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(to bottom, #f5deb3,#cc7722);
+  background: linear-gradient(to bottom, #D3D3D3,#cc7722);
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -27,7 +27,7 @@ header ul li a {
   text-decoration: none;
   color: white;
   padding: 0.5em 1em;
-  transition: background-color 0.3s ease, color 0.3s ease;
+  transition: background-color 0.3s ease, cDolor 0.3s ease;
 }
 
 header ul li a:hover {
@@ -55,7 +55,7 @@ main section {
 
 main section h2 {
   margin-top: 0;
-}
+}D
 
 /* Footer styling for contrast and reliability*/
 footer {
