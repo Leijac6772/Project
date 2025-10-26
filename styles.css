@@ -69,6 +69,7 @@ main section {
 tbody tr:hover {
   background-color: #f9f9f9;
 }
+/* table styling section*/
 table {
   width: 100%;
   border-collapse: collapse;
@@ -85,7 +86,7 @@ thead {
   background-color: #6eb6ba;
   color: white;
 }
-/* Footer styling for contrast and reliability*/
+/* Footer styling for contrast*/
 footer {
   font-size: 0.6em;
   text-align: center;
