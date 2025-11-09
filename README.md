@@ -1,57 +1,32 @@
-# My Project
-A web project for deployment and hosting practice.
+# Final Project Website
+
+_A responsive, accessible, and visually engaging example webpage built with HTML and CSS._
 
 ## Overview
-This project serves as a way to experiment with local hosting and deployment workflows. It includes basic HTML/CSS structure and is designed to be expanded with interactive and accessible features.
+
+This project shows a multi-section webpage designed to demonstrate core web development skills, including semantic HTML structure, responsive layout, accessible forms, and styled tables. It includes interactive navigation, hover effects, and a contact form—all styled with a custom CSS file.
+
+Created by **Leighton Jackson** as part of a final project assignment, the site reflects thoughtful design choices and a commitment to clarity, usability, and emotional resonance.
 
 ## Features
--  Local hosting setup for testing
--  GitHub-based version control
--  Markdown documentation via README
-## Getting Started
+
+- Gradient background and styled sections with hover effects
+- Navigation menu with smooth hover transitions
+- Responsive table with alternating column colors
+- Accessible contact form with focus styles and validation
+- Flexbox layout with media queries for responsive design
+
+##  Getting Started
 
 ### Prerequisites
-- Git
-- A modern browser
-- VS Code or another code editor
+
+- A modern web browser (Chrome, Firefox, Edge)
+- A code editor (e.g., VS Code)
 
 ### Installation
+
+Clone the repository and open the `index.html` file in your browser:
+
 ```bash
 git clone https://github.com/Leijac6772/Project.git
 cd Project
-
-- Adjust once you add more files.
-
----
-
-### 5. **Deployment**
-```markdown
-## Deployment
-This project is intended for local hosting and future deployment via GitHub Pages or Netlify. To test locally, open the HTML file directly in your browser or use a local server like Live Server in VS Code.
-
-## Demo
-Coming soon — once the interface is built, screenshots or a live demo link will be added.
-
-## Project Structure
-Project/
-├── index.html (coming soon)
-├── css/
-│   └── styles.css (planned)
-├── js/
-│   └── scripts.js (optional)
-└── README.md
-
-## Contributing
-This is a personal learning project. Contributions are welcome for feedback, accessibility suggestions, or deployment tips.
-
-## License
-This project is not yet licensed. A license will be added once development progresses.
-
-## Acknowledgments
-- ECPI course materials on deployment and hosting
-- GitHub for version control and project management
-
-
-
-
-
