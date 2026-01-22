@@ -133,10 +133,6 @@ Spring MVC is a module/framework used to implement Model and Driven software dev
 Running the Project
 Clone the repository
 
-Install dependencies
-
-Run the development server or backend service
-
 Execute unit tests
 
 Deploy or run locally
@@ -146,10 +142,5 @@ Deploy or run locally
 Future Enhancements
 Multi‑factor authentication
 
-Enhanced admin dashboard
-
-Expanded reporting and analytics
-
-Improved UI/UX for customer workflows
 
 Additional order‑processing features
